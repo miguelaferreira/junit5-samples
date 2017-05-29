@@ -60,7 +60,7 @@ JUnit Jupiter based tests). Similarly, if you supply a _tag_ via `tags {exclude 
 the JUnit Platform Gradle plugin will not run tests that are _tagged_ accordingly.
 
 By default, the JUnit Platform Gradle plugin disables the standard Gradle `test` task, but
-this be overridden via the `enableStandardTestTask` flag.
+this can be overridden via the `enableStandardTestTask` flag.
 
 ## Configuring Test Engines
 
